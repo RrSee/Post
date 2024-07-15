@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\post\\post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|solutionrelative:post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\post\\post\\passexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|solutionrelative:post\\passexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\post\\post\\postt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|solutionrelative:post\\postt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\post\\post\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|solutionrelative:post\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\post\\post\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|solutionrelative:post\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\post\\post\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476302D8-045A-41D1-9A3E-9821EF6D7BA4}|Post\\Post.csproj|solutionrelative:post\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassException.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\PassException.cs",
+              "RelativeDocumentMoniker": "Post\\PassException.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\PassException.cs",
+              "RelativeToolTip": "Post\\PassException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:54:33.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\Notification.cs",
+              "RelativeDocumentMoniker": "Post\\Notification.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\Notification.cs",
+              "RelativeToolTip": "Post\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T13:44:53.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\User.cs",
+              "RelativeDocumentMoniker": "Post\\User.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\User.cs",
+              "RelativeToolTip": "Post\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:21:58.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\Admin.cs",
+              "RelativeDocumentMoniker": "Post\\Admin.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\Admin.cs",
+              "RelativeToolTip": "Post\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:09:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Postt.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\Postt.cs",
+              "RelativeDocumentMoniker": "Post\\Postt.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\Postt.cs",
+              "RelativeToolTip": "Post\\Postt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:23:59.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\Program.cs",
+              "RelativeDocumentMoniker": "Post\\Program.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Post\\Post\\Program.cs",
+              "RelativeToolTip": "Post\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:07:01.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

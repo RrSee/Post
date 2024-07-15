@@ -1,0 +1,14 @@
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\bin\Debug\net8.0\Post.exe
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\bin\Debug\net8.0\Post.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\bin\Debug\net8.0\Post.runtimeconfig.json
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\bin\Debug\net8.0\Post.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\bin\Debug\net8.0\Post.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\Post.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\Post.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\Post.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\Post.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\refint\Post.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\Post.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\Post.genruntimeconfig.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Post\Post\obj\Debug\net8.0\ref\Post.dll
